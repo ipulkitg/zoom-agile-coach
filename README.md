@@ -3,9 +3,6 @@
 
 **Agile Meeting Assistant** is an AI-powered tool designed to provide **agile project planning recommendations** during **Zoom meetings**. By leveraging **OpenAI GPT** and **LangChain**, the system listens to ongoing conversations and offers **real-time suggestions** to help teams align with agile methodologies.
 
-Check out the hosted project [here](https://portfolio-ipulkitg.vercel.app/).  
-Also, feel free to explore my [resume](https://drive.google.com/file/d/1pMzYIyrwrTPGhQSzxlikWRC0ctAyhnHh/view?usp=sharing).
-
 ---
 
 ## 🚀 Features
