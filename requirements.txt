@@ -1,0 +1,6 @@
+openai
+azure-search-documents
+python-dotenv
+jupyter
+pandas
+langchain-openai
